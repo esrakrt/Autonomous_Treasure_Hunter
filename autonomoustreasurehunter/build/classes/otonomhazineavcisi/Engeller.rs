@@ -1,0 +1,10 @@
+otonomhazineavcisi.HareketliEngeller$GecilemezKonumlar
+otonomhazineavcisi.Engeller
+otonomhazineavcisi.HareketliEngeller
+otonomhazineavcisi.Duvar
+otonomhazineavcisi.Kaya
+otonomhazineavcisi.HareketsizEngeller
+otonomhazineavcisi.Dag
+otonomhazineavcisi.Kus
+otonomhazineavcisi.Ari
+otonomhazineavcisi.Agac

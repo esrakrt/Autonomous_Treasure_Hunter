@@ -1,0 +1,6 @@
+otonomhazineavcisi.GumusSandik
+otonomhazineavcisi.Hazine
+otonomhazineavcisi.BakirSandik
+otonomhazineavcisi.ZumrutSandik
+otonomhazineavcisi.AltinSandik
+otonomhazineavcisi.Lokasyon
